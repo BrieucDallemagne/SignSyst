@@ -1,0 +1,9 @@
+(1)Soit un signal x(t). Considérons maintenant y(t)=x(t−t0) avec t0∈R, une version décalée de x(t).
+ Que peut-on affirmer sur le spectre, c'est-à-dire la transformée de Fourier, de y(t) ?
+
+
+ -Le décalage en temporel correspond à une modulation dans le domaine fréquentiel : le spectre de y(t) est décalé de 2π/t0
+ vers la droite (comparé au spectre de x(t)) à cause de la multiplication par une exponentielle complexe de période 2π/t0.
+
+ -Le 'contenu fréquentiel' de y(t) est identique à celui de x(t) : aucune nouvelle fréquence n'apparaît.
+  Les modules de leurs spectres sont identiques, seules les phases diffèrent.
