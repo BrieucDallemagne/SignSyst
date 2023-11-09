@@ -1,6 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+#67,5%
+
 # LE CONTENU DE CETTE CELLLULE EST A SOUMETTRE SUR INGINIOUS
 def window(n,n0,n1,A):
     #fonction mauvaise
